@@ -1,0 +1,23 @@
+Урок №10. Препроцессор LESS для CSS
+Принцип работы LESS и зачем он нужен
+· Какой компилятор использовать для работы
+· Миксины в LESS
+· Работа с цветом
+· Переменные в LESS
+· Вложенность элементов
+
+Дополнительные ссылки
+Ссылка на компилятор Koala
+http://koala-app.com (http://koala-app.com/)
+LESS: программируемый язык стилей
+https://habrahabr.ru/post/136525/ (https://habrahabr.ru/post/136525/)
+SASS против LESS
+https://habrahabr.ru/post/144309/ (https://habrahabr.ru/post/144309/)
+Краткий обзор отличий LESS от SASS
+https://habrahabr.ru/post/130886/ (https://habrahabr.ru/post/130886/)
+Как правильно использовать переменные в препроцессорах LESS и SASS
+https://habrahabr.ru/post/332382/ (https://habrahabr.ru/post/332382/)
+Дополнительные видео
+Препроцессор SASS
+2) Напиши LESS код, который на выходе выдаст такой же код как в файле homework.css
+3) Используй переменные и миксины ;)
