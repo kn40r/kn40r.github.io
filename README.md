@@ -1,4 +1,4 @@
 # Nikolay Klimov
 Learning 10.0
 
-[Lesson 12](kn40r.github.io/lesson_12/index.hml "Есть неточности, form input + footer button center")
+[Lesson 12](https://kn40r.github.io/lesson_12/index.html "Есть неточности, form input + footer button center") - Работа с репозиторием на GitHub
