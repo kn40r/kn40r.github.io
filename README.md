@@ -1,2 +1,2 @@
-# kn40r.github.io
+# Nikolay Klimov
 Learning 10.0
