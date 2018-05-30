@@ -1,0 +1,49 @@
+.container {
+	position: absolute;
+	width: 570px;
+	height: 570px;
+	padding: 0;
+	background-image: url(../img/bg.png); /* Путь к фоновому изображению */
+  background-color: #ebf4f4; /* Цвет фона */
+}
+.reg_form {
+	position: absolute;
+	margin: 100px 125px 100px 125px;
+	width: 320px;
+	height: 370px;
+	background-color: #fff;
+	border: 1px solid #cfdede;
+}
+.ribbon {
+	width: 150px;
+	height: 25px;
+	margin: -3px 0px 25px 30px;
+	background-color: #01b3b3;
+	color: #fff;
+	font: bold 12px Arial;
+	text-align: center;
+	line-height: 25px;
+	box-shadow: 1px 1px 3px rgba(0,0,0,0.5);
+}
+.form-group {
+	margin: 15px 30px 15px 30px;
+}
+label{
+	font: bold 12px Arial;
+}
+.mark {
+	color: #01b3b3;
+	background-color: #fff;
+	font: bold 12px Arial;
+}
+.form-control {
+	background-image: url(../img/bg.png);
+	font: italic 12px Arial;
+	line-height: 18px;
+}
+.btn {
+	width: 260px;
+	height: 45px;
+	background-color: #01b3b3;
+	margin-top: 20px;
+}
