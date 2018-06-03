@@ -13,4 +13,5 @@
 * [Lesson 10](https://kn40r.github.io/lesson_10/ "Lesson 12 выполнял") - Lesson 12 выполнял
 * [Lesson 11](https://kn40r.github.io/lesson_11/ "Lesson 12 выполнял") - Lesson 12 выполнял
 * [Lesson 12](https://kn40r.github.io/lesson_12/index.html "Есть неточности, form input + footer button center") - Работа с репозиторием на GitHub
+* [Lesson 13](https://kn40r.github.io/lesson_13/index.html "Есть неточности, не пиксель в пиксель") - Верстка пиксель в пиксель
 * [Lesson 14](https://kn40r.github.io/lesson_14/index.html "Fonts and font-apis") - Подключение шрифтов
