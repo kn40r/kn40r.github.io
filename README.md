@@ -4,7 +4,7 @@
 
 ## Practice
 
-1. [Practice_01 - Header](https://kn40r.github.io/Practic_01/)
+1. [Practice_01 - Header(empty url-404)](https://kn40r.github.io/Practic_01/)
 2. [Practice_02 - Form](https://kn40r.github.io/Practic_02/)
 
 
