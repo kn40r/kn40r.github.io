@@ -1,6 +1,13 @@
 # Nikolay Klimov
-## Learning 10.0
+### Learning 10.0
 
+## Practice
+
+1. [Practice_01 - Header](https://kn40r.github.io/Practic_01/)
+2. [Practice_02 - Form](https://kn40r.github.io/Practic_02/)
+
+
+## Lessons
 * [Lesson 1](https://kn40r.github.io/lesson_1/ "Lesson 12 выполнял") - Lesson 12 выполнял
 * [Lesson 2](https://kn40r.github.io/lesson_2/ "Lesson 12 выполнял") - Lesson 12 выполнял
 * [Lesson 3](https://kn40r.github.io/lesson_3/ "Lesson 12 выполнял") - Lesson 12 выполнял
