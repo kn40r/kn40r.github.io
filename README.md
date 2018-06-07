@@ -1,4 +1,4 @@
-# Nikolay Klimov
+# Nikolay Klimov [MarkdownCheatSheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 ### Learning 10.0
 
 ## Practice
